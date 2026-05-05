@@ -1,0 +1,35 @@
+---
+name: Add a new AI companion app
+about: Suggest a new app to add to the list
+title: 'Add [App Name]'
+labels: 'new-app'
+assignees: ''
+---
+
+## App Information
+
+**Name:** 
+**URL:** 
+**Platforms:** (iOS / Android / Web)
+**Pricing:** (Free / Freemium / $X/mo)
+
+## Key Features (pick 3-5)
+- 
+- 
+- 
+
+## Which section does it belong in?
+- [ ] AI Companion Apps
+- [ ] Character & Roleplay Platforms
+- [ ] AI Boyfriend/Girlfriend Apps
+- [ ] Open Source & Self-Hosted
+- [ ] Frameworks & Tools for Building Companions
+
+## Why should it be included?
+<!-- What makes this app notable? What's unique about it? -->
+
+## Checklist
+- [ ] App is currently active and accessible
+- [ ] App is primarily an AI companion/character/relationship app
+- [ ] App has been available for at least 1 month
+- [ ] Not a pure clone/reskin of another listed app
