@@ -29,11 +29,13 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [Kissable](https://kissable.app) | Persistent memory, photo/video generation, community scenario catalog, emotional voice, scenario creator with lorebook/NPCs | $19.99/mo (7-day trial) | iOS, Web |
 | [Replika](https://replika.com) | Gamified relationship progression, AR, coaching activities, long track record | $19.99/mo or $70/yr | iOS, Android, Web |
 | [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $20/mo | iOS, Android, Web |
+| [Omoi](https://omoi.ai) | AI agents on Discord, proactive messaging, emotional voice, web search, NSFW-friendly, organizes own long-term memory | $20/mo (7-day trial) | Discord (cross-platform) |
 | [Kindroid](https://kindroid.ai) | Lifelike personalities, selfies, in-app social feed, voice calls | $13.99/mo | iOS, Android, Web |
 | [EVA AI](https://eva.ai) | Dating simulation, multiple characters, personality adaptation | Freemium | iOS, Android |
 | [Anima](https://animaapp.ai) | Roleplay, relationship building, personality growth over time | Freemium | iOS, Android |
 | [Romantic AI](https://romanticai.com) | Romantic companion focus, emotional support, daily check-ins | Freemium | iOS, Android |
 | [Pi (Inflection)](https://pi.ai) | Calmer conversational tone, empathetic listening, no romantic features | Free | iOS, Android, Web |
+| [PiPar](https://piparapp.com) | Productivity + companion hybrid, 6 AI personas (5 task-specific + 1 custom), proactive calls, task reminders, check-in calls, multilingual chat/voice, multi-model (Claude/Gemini/OpenAI/DeepSeek), image/audio/document analysis | Freemium | Android, Web |
 | [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
 | [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
 
