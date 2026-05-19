@@ -31,7 +31,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [Replika](https://replika.com) | Gamified relationship progression, AR, coaching activities, long track record | $19.99/mo or $70/yr | iOS, Android, Web |
 | [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $14.99/mo, $38.99/3mo, $99/yr | iOS, Android, Web |
 | [Omoi](https://omoi.ai) | AI agents on Discord, proactive messaging, emotional voice, web search, NSFW-friendly, organizes own long-term memory | $20/mo (7-day trial) | Discord (cross-platform) |
-| [Kindroid](https://kindroid.ai) | Lifelike personalities, selfies, in-app social feed, voice calls | $13.99/mo | iOS, Android, Web |
+| [Kindroid](https://kindroid.ai) | Lifelike personalities, selfies, in-app social feed, voice calls; free tier has unlimited NSFW chat (no message limits), limited image gen | Free (chat) / $13.99/mo | iOS, Android, Web |
 | [EVA AI](https://eva.ai) | Dating simulation, multiple characters, personality adaptation | Freemium | iOS, Android |
 | [Anima](https://animaapp.ai) | Roleplay, relationship building, personality growth over time | Freemium | iOS, Android |
 | [Romantic AI](https://romanticai.com) | Romantic companion focus, emotional support, daily check-ins | Freemium | iOS, Android |
@@ -40,7 +40,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
 | [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
 | [BodyBuddy](https://bodybuddy.app) | Daily accountability companion for health in iMessage, persistent memory, gentle human-like personality, tracks and coaches to better health (exercise, sleep, meals, calories) | $29.99/mo (7-day trial) | iOS, iMessage |
-| [dmwithme](https://dmwithme.com) | Livestream-format SFW AI companion (live cam model, not static chat), AI characters with mood and emotion changes, unlimited messages, virtual gift coins | Freemium / $7.99/mo | Web |
+| [dmwithme](https://dmwithme.com) | Livestream-format SFW AI companion (live cam model, not static chat), AI characters with mood and emotion changes, unlimited messages, virtual gift coins | Freemium (coins for gifts, no monthly sub) | Web |
 
 ## Character & Roleplay Platforms
 
