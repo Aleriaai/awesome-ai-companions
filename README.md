@@ -4,7 +4,7 @@
 
 AI companions are apps designed for ongoing emotional, social, or romantic interaction with AI characters. Unlike productivity assistants (ChatGPT, Claude), these focus on persistent relationships, personality, and creative roleplay.
 
-**Last updated: May 2026** | [Suggest an addition](https://github.com/tomasz-buczek/awesome-ai-companions/issues/3)
+**Last updated: June 2026** | [Suggest an addition](https://github.com/tomasz-buczek/awesome-ai-companions/issues/3)
 
 ---
 
@@ -27,10 +27,10 @@ Apps designed around long-running emotional/social interaction with a persistent
 
 | App | Key Features | Pricing | Platforms |
 |-----|-------------|---------|-----------|
-| [Kissable](https://kissable.app) | Persistent memory, photo/video generation, community scenario catalog, emotional voice, scenario creator with lorebook/NPCs | $19.99/mo (7-day trial) | iOS, Web |
+| [Kissable](https://kissable.app) | Persistent memory, photo/video generation, community scenario catalog, emotional voice, scenario creator with lorebook/NPCs | $9.99/mo or $89.99/yr (free trial) | iOS, Web |
 | [Reminisce](https://apps.apple.com/us/app/reminisce-ai-companion/id6758736555) | Memorial companion for lost loved ones, voice cloning from recordings, personality recreation from shared memories and videos, phone calls and chat | Freemium | iOS |
-| [Replika](https://replika.com) | Gamified relationship progression, AR, coaching activities, long track record | $19.99/mo or $70/yr | iOS, Android, Web |
-| [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $14.99/mo, $38.99/3mo, $99/yr | iOS, Android, Web |
+| [Replika](https://replika.com) | Gamified relationship progression, AR, coaching activities, long track record | $19.99/mo or $69.99/yr | iOS, Android, Web |
+| [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $15.99/mo, $38.99/3mo, $99/yr | iOS, Android, Web |
 | [Omoi](https://omoi.ai) | AI agents on Discord, proactive messaging, emotional voice, web search, NSFW-friendly, organizes own long-term memory | $20/mo (7-day trial) | Discord (cross-platform) |
 | [Kindroid](https://kindroid.ai) | Lifelike personalities, selfies, in-app social feed, voice calls; free tier has unlimited NSFW chat (no message limits), limited image gen | Free (chat) / $13.99/mo | iOS, Android, Web |
 | [EVA AI](https://eva.ai) | Dating simulation, multiple characters, personality adaptation | Freemium | iOS, Android |
@@ -43,6 +43,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
 | [BodyBuddy](https://bodybuddy.app) | Daily accountability companion for health in iMessage, persistent memory, gentle human-like personality, tracks and coaches to better health (exercise, sleep, meals, calories) | $29.99/mo (7-day trial) | iOS, iMessage |
 | [dmwithme](https://dmwithme.com) | Livestream-format SFW AI companion (live cam model, not static chat), AI characters with mood and emotion changes, unlimited messages, virtual gift coins | Freemium (coins for gifts, no monthly sub) | Web |
+| [Izzy & friends](https://apps.apple.com/us/app/izzy-friends/id6753328759) | Emotional journaling companion, multiple AI friends, voice notes, media recommendations, local event discovery, real-world nudges | $0.99 one-time | iOS |
 
 ## Character & Roleplay Platforms
 
@@ -79,7 +80,7 @@ Apps specifically marketed for romantic AI relationships.
 
 | App | Key Features | Pricing | Platforms |
 |-----|-------------|---------|-----------|
-| [Kissable](https://kissable.app) | Together photos, video generation, persistent memory, emotional voice | $19.99/mo (7-day trial) | iOS, Web |
+| [Kissable](https://kissable.app) | Together photos, video generation, persistent memory, emotional voice | $9.99/mo or $89.99/yr (free trial) | iOS, Web |
 | [Candy AI](https://candy.ai) | Image generation, multiple AI characters, NSFW content | ~$12.99/mo + tokens | Web |
 | [DreamGF](https://dreamgf.ai) | AI girlfriend generator, image/voice, multiple characters | $9.99-$99.99/mo | Web |
 | [GirlfriendGPT](https://girlfriendgpt.com) | Unrestricted NSFW roleplay, custom character creation | Freemium | Web |
